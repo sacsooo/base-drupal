@@ -1,0 +1,13 @@
+web/sites
+web/sites/*/files
+web/sites/*/migration
+**/files-private
+**/node_modules
+**/bower_components
+*.sql
+*.sql.gz
+/scripts/custom/*
+/web/robots.txt
+/web/robots-des.txt
+/web/robots-pre.txt
+/web/robots-probeta.txt
