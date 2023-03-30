@@ -126,7 +126,7 @@ volumes:
   codebase:
     driver_opts:
       type: none
-      device: "${PWD}"
+      device: "./"
       o: bind
 
 #  mutagen:
